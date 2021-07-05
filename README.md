@@ -5,4 +5,5 @@
 ### Projects in this repository:
 * Predicting home sales prices in Ames, IA using linear regression
 * Predicting the drinkablity of water using logistic regression, KNN Classifiers, SVC, and Random forests 
+* Using unsupervised machine learning techniques for clustering red wine by quality
 
